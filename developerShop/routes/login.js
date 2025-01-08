@@ -1,10 +1,10 @@
 let express = require('express');
 let router = express.Router();
+let loginController = require('../controllers/loginController');
 
 
 
-router.get('/', function(req, res) {
-    return res.send('GET HTTP method on user resource');})
+router.get('/', loginController.index);
 
 
     module.exports = router;
