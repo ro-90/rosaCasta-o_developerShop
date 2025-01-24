@@ -164,8 +164,8 @@ nav ul li {
     color: #094611; 
   }
    a {
-    text-decoration: none; /* Elimina el subrayado de los enlaces */
-    color: inherit; /* Mantiene el color del texto del enlace igual al color del texto circundante */
+    text-decoration: none; 
+    color: inherit; 
   }
   
      
