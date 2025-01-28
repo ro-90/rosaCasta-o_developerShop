@@ -1,35 +1,43 @@
-# rosaCasta-o_developerShop
-tienda developer
+### developerShop
 
-
-url del boceto:
-
+#### URL del boceto:
 https://www.figma.com/design/bjxTUoalaoXiccx1wJlQ7h/Untitled?node-id=0-1&t=a7oW0iQ2fIy2gbFi-1
 
+#### Ofertas de productos y servicios
+developerShop es una tienda dedicada a ofrecer una variedad de ropas.
 
-Ofertas de productos y servicios
+#### Público Objetivo:
+El sitio está dirigido a programadores, estudiantes de informática y amantes de la tecnología. Buscamos atraer a aquellos que deseen mostrar su pasión por la programación y la tecnología a través de la ropa y accesorios.
 
+#### Descripción Personal:
+Soy Rosa Castaño, tengo 34 años y soy la creadora de developerShop.
 
+#### Sitios de Referencias:
+- [Mercado Libre](https://www.mercadolibre.com.ar)
+- [Redbubble](https://www.redbubble.com)
+- [Devre](https://www.devre.la)
+- [Dept](https://www.deptangency.com)
+- [DevWear](https://devwear.co)
 
-developerShop,es una tienda dedicada a ofrecer una variedad de ropas y accesoriosdiseñados especialmente,para programadores y entusiastas de la tecnologia.En nuestra seleccion encontraras t-shirts,buzos,y otras prendas  de diseños relacionados con la programacion,asi como accesorios como mugs,stickers,gadgets que reflejan la cultura del desarrollo del software.Nuestro objetivo es combinar comodidad y estilo,permitiendo que nuetros clientes expresen su pasion por la programacion en su vestimenta y accesorios.
+Los sitios anteriormente mencionados fueron elegidos como referencia por su gran confiabilidad y alta demanda del público.
 
+### Estructura del Proyecto
 
-PUBLICO OBJETIVO:
-Elsitio esta dirijido a programadores,estudiantes de informatica y amantes de la tecnologia que valoran la originalidad y el sentido de comunidad en su indumentaria.
-Buscamos atraer a aquellos que deseen  mostrar su pasion por la programacion de manera creativa y comoda,ademas de fomentar un sentido de pertenencia entre quienes comparten esta profecion.
+#### Instalación
+1. Clona el repositorio: `git clone https://github.com/ro-90/rosaCasta-o_developerShop.git`
+2. Navega al directorio del proyecto: `cd rosaCasta-o_developerShop`
+3. Instala las dependencias: `npm install`
 
-DESCRIPCION PERSONAL:
-Soy Rosa castaño tengo 34 años y soy la creadora de DeveloperShop,resido en Sanmiguel y actualmente soy estudiante de programacion Fullstack.mi interes por la tecnologia y mi deseo de unificar la moda con la programacion me llevaron a fundar esta tienda.Aspiro a ofrecer productos que no solo sean funcionales,sino tambien ayuden a los demas programadores y estudiantes a expresarse y conectarse con su pasion por el desarrolo software.
+#### Uso
+1. Inicia el servidor: `npm start`
+2. Abre tu navegador y visita: `http://localhost:3000`
 
+#### Contribución
+1. Haz un fork del repositorio.
+2. Crea una nueva rama: `git checkout -b feature-nueva`
+3. Realiza tus cambios y haz commit: `git commit -m 'Añadir nueva característica'`
+4. Sube los cambios a tu repositorio: `git push origin feature-nueva`
+5. Crea un Pull Request.
 
-SITIOS DE REFERENCIAS:
-Mercado libre--https://www.mercadolibre.com.ar
-Redbubble--https://www.redbubble.com
-Devre--https://www.devre.la
-Dept--https://www.deptangency.com
-DevWear--https://devwear.co
-
-Los sitios anteriormente mencionados fueron elegidos como referencia,por su gran trayectoria en ventas de indumentarias ,varios asociados con la tecnologia, y la funcionabilidad de sus sitios estan ampliamente adaptados para una mejor  experiencias de adaptabilidad y comodidad para sus clientes.
-La confiablidad y alta demanda del publico a estos sitios tambien fueron factores importantes  la hora de elegirlos como referencia.
-
-
+#### Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
