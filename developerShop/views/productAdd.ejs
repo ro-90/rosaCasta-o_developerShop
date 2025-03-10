@@ -13,16 +13,16 @@
     <h2>Administrar Productos</h2>
     <a href="/productAdd" class="btn">Crear Nuevo Producto</a>
     <table>
-      <thead>
+      <head>
         <tr>
           <th>Nombre</th>
           <th>Descripción</th>
           <th>Imagen</th>
           <th>Acciones</th>
         </tr>
-      </thead>
-      <tbody>
-        <% products.forEach(product => { %>
+      </head>
+      <body>
+        <% product.forEach(product => { %>
           <tr>
             <td><%= product.name %></td>
             <td><%= product.description %></td>
@@ -33,7 +33,7 @@
             </td>
           </tr>
         <% }) %>
-      </tbody>
+      </body>
     </table>
   </main>
   <%- include('partials/footer') %>
